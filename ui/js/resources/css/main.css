@@ -1,0 +1,36 @@
+A {color: #3882b0; text-decoration: none;}
+A:hover {text-decoration: underline;}
+
+.required{font-weight: bold; color: red;}
+
+.logout{background: url('../images/door_out.png') no-repeat 0 0 !important;}
+.store{background: url('../images/house.png') no-repeat 0 0 !important;}
+.building{background: url('../images/building.png') no-repeat 0 0 !important;}
+.product{background: url('../images/cart_put.png') no-repeat 0 0 !important;}
+.incommingProducts{background: url('../images/database_refresh.png') no-repeat 0 0 !important;}
+.user{background: url('../images/user.png') no-repeat 0 0 !important;}
+.userGroup{background: url('../images/group.png') no-repeat 0 0 !important;}
+.measure{background: url('../images/tag_orange.png') no-repeat 0 0 !important;}
+.refreshArrows{background: url('../images/arrow_refresh.png') no-repeat 0 0 !important;}
+.outArrows{background: url('../images/arrow_out.png') no-repeat 0 0 !important;}
+.dbIn{background: url('../images/database_add.png') no-repeat 0 0 !important;}
+.dbOut{background: url('../images/database_delete.png') no-repeat 0 0 !important;}
+.package{background: url('../images/package_green.png') no-repeat 0 0 !important;}
+.report{background: url('../images/report.png') no-repeat 0 0 !important;}
+.table_refresh{background: url('../images/table_refresh.png') no-repeat 0 0 !important;}
+.script_add{background: url('../images/script_add.png') no-repeat 0 0 !important;}
+.script_delete{background: url('../images/script_delete.png') no-repeat 0 0 !important;}
+.lorry{background: url('../images/lorry.png') no-repeat 0 0 !important;}
+.user_suit{background: url('../images/user_suit.png') no-repeat 0 0 !important;}
+.user_gray{background: url('../images/user_gray.png') no-repeat 0 0 !important;}
+.car{background: url('../images/car.png') no-repeat 0 0 !important;}
+.settings{background: url('../images/wrench.png') no-repeat 0 0 !important;}
+.book_addresses{background: url('../images/book_addresses.png') no-repeat 0 0 !important;}
+.organization{background: url('../images/chart_organisation.png') no-repeat 0 0 !important;}
+.date{background: url('../images/date.png') no-repeat 0 0 !important;}
+.text_list_bullets{background: url('../images/text_list_bullets.png') no-repeat 0 0 !important;}
+.cog{background: url('../images/cog.png') no-repeat 0 0 !important;}
+.chart_pie{background: url('../images/chart_pie.png') no-repeat 0 0 !important;}
+.world{background: url('../images/world.png') no-repeat 0 0 !important;}
+.drive_network{background: url('../images/drive_network.png') no-repeat 0 0 !important;}
+.server{background: url('../images/server.png') no-repeat 0 0 !important;}
